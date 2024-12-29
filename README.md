@@ -8,7 +8,7 @@
 2. **Predictive Models**: Use machine learning to forecast key metrics and outcomes.
 3. **Data Visualization**: Create interactive visuals to communicate insights to stakeholders.
 
-## Objectives for 2024
+## Objectives for 2025
 
 - Analyze participant data and visualize findings.
 - Identify factors contributing to successful events and areas for improvement.
