@@ -10,16 +10,9 @@
 
 ## Objectives for 2024
 
-- Analyze participant demographics, engagement levels, and project outcomes.
+- Analyze participant data and visualize findings.
 - Identify factors contributing to successful events and areas for improvement.
 - Develop predictive models to support data-driven decision-making.
-- Visualize findings to enhance transparency and collaboration.
-
----
-
-## About HackRU
-
-HackRU is Rutgers University's **biannual hackathon**, bringing together students, developers, and innovators for 24 hours of creativity, collaboration, and learning. Learn more at [HackRU's official website](https://hackru.org).
 
 ---
 
